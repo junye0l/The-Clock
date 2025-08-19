@@ -1,0 +1,7 @@
+/* 기본 스타일 제거하고 필요한 것만 남기기 */
+#root {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100vh;
+}
